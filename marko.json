@@ -1,0 +1,6 @@
+{
+  "<marko-globals>": {
+    "renderer": "./tag.marko",
+    "no-output": true
+  }
+}
