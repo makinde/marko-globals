@@ -16,5 +16,11 @@
   "dependencies": {
     "lodash.get": "4.4.2",
     "lodash.set": "4.3.2"
+  },
+  "devDependencies": {
+    "np": "3.0.4"
+  },
+  "peerDependencies": {
+    "marko": "4.x"
   }
 }
