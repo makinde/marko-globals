@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Small library for sharing globals in marko",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "marko",
     "taglib",
