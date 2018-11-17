@@ -5,10 +5,10 @@ const globalStore = {};
 
 module.exports = {
   get(path, defaultValue) {
-    lodashGet(globalStore, path, defaultValue);
+    return lodashGet(globalStore, path, defaultValue);
   },
 
   set(path, value) {
-    lodashSet(globalStore, path, value);
+    return lodashSet(globalStore, path, value);
   },
 };
