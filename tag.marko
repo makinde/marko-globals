@@ -4,7 +4,6 @@ class {
   onRender(out) {
     // Read out the globals and stick them all into the global store
     Object.keys(out.global).map(function (key) {
-      console.log('setting', key);
       globalStore.set(key, out.global[key]);
     });
   }
