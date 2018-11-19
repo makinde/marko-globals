@@ -1,6 +1,6 @@
 {
   "name": "marko-globals",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Small library for sharing globals in marko",
   "main": "index.js",
   "keywords": [
